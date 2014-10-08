@@ -1,4 +1,4 @@
-# chatty
+# mychatty
 
 A very (very) simple chat server with web client interface.
 
